@@ -27,3 +27,11 @@ Alley, becoming annoyed, whispered under her breath, “Gee, I wish I had a bala
 
 # Reflecting and responding #
 This puzzle's statement has many complications and aspects to it. Understanding what exactly is being asked is a great place to start thinking about a question. Uncovering the essence involves specifying what cannot be ignored and identifying and ignoring all of the distracting features that should be ignored.
+
+For me personally this puzzle was easy, didn't take me long to find the same answer as in the course.
+
+# Answer #
+* Split the rocks into groups of 3.
+* Weigh group 1 and group 2. If one is heavier it contains the Ramanujan, and if
+they are the same mass, the Ramanujan is in the 3rd group.
+* Weigh the Ramanujan group with 1:1. If one is heavier it's the Ramanujan and if both weigh the same, the remaining rock is Ramanujan.
