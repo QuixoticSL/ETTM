@@ -35,3 +35,9 @@ For me personally this puzzle was easy, didn't take me long to find the same ans
 * Weigh group 1 and group 2. If one is heavier it contains the Ramanujan, and if
 they are the same mass, the Ramanujan is in the 3rd group.
 * Weigh the Ramanujan group with 1:1. If one is heavier it's the Ramanujan and if both weigh the same, the remaining rock is Ramanujan.
+
+## Week 1: A Shaky Story ##
+Stacy and Sam Smyth were known for throwing a heck of a good party. At one of their wild gatherings, five couples were present (this included the Smyths, of course). The attendees were cordial, and some even shook hands with other guests. Although we have no idea who shook hands with whom, we do know that no one shook hands with themselves and no one shook hands with his or her own spouse. Given these facts, a guest might not shake anyone’s hand or might shake as many as eight other people’s hands. At midnight, Sam Smyth gathered the crowd and asked the nine other people how many hands each of them had shaken. Much to Sam’s amazement, each person gave a different answer. That is, someone didn’t shake any hands, someone else shook one hand, someone else shook two hands, someone else shook three hands, and so forth, down to the last person, who shook eight hands. Given this outcome, determine the exact number of hands that Stacy Smyth shook.
+
+# Answer #
+Stacy shook 1 hand.
