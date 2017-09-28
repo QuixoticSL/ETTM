@@ -41,3 +41,19 @@ Stacy and Sam Smyth were known for throwing a heck of a good party. At one of th
 
 # Answer #
 Stacy shook 1 hand.
+
+## Week 2: The Puzzle of the Pirates and Admirals ##
+Three Pirates and three Admirals walking together approach a river. The river is too wide to swim across and there is no bridge in sight, but there is a single row boat on the bank.
+The boat is only big enough to fit two people at a time, and since it is not a magical boat, it requires at least one person to row it across the river.
+Now the pirates, being as they are pirates, will attack the admirals if they ever outnumber them. If there are more admirals than pirates on a side, or an equal number, everyone will remain friendly.
+
+# Answer #
+* 1P and 1A travel to the other bank
+* 1A travels back to the first bank
+* Ferry back the two remaining P to the other bank
+* At this point we have 3P on the second bank and 3A on the first bank
+* Send 2A to the second bank and take 1P back with 1A driving the boat
+* Now we have 1P and 3A on the second bank and 2P on the first bank
+* 1P returns to the right bank for his friends and returns with 2P
+* 1P returns with the last pirate
+* 3A and 3P are on the second bank
