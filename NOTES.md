@@ -57,3 +57,6 @@ Now the pirates, being as they are pirates, will attack the admirals if they eve
 * 1P returns to the right bank for his friends and returns with 2P
 * 1P returns with the last pirate
 * 3A and 3P are on the second bank
+
+## Week 2: Towers of Hanoi ##
+[Explanation of puzzle](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
