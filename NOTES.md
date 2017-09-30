@@ -60,3 +60,4 @@ Now the pirates, being as they are pirates, will attack the admirals if they eve
 
 ## Week 2: Towers of Hanoi ##
 [Explanation of puzzle](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
+[Towers of Hanoi solver](https://www.coolmath-games.com/0-tower-of-hanoi)
