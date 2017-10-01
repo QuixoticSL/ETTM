@@ -61,3 +61,12 @@ Now the pirates, being as they are pirates, will attack the admirals if they eve
 ## Week 2: Towers of Hanoi ##
 [Explanation of puzzle](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
 [Towers of Hanoi solver](https://www.coolmath-games.com/0-tower-of-hanoi)
+
+## Week 2: Extra puzzle ##
+The fountain of knowledge. During an incredibly elaborate hazing stunt during pledge week, Trey Sheik suddenly found himself alone in the Sahara desert. His desire to become a fraternity brother was now overshadowed by his desire to find something to drink (these desires, of course, are not unrelated). As he wandered aimlessly through the desert sands, he began to regret his involvement in the whole frat scene. Both hours and miles had passed and Trey was near dehydration. Only now did Trey appreciate the advantages of sobriety. Suddenly, as though it were a mirage, Trey came upon an oasis.
+
+There, sitting in a shaded kiosk beside a small pool of mango nectar, was an old man named Al Donte. Big Al not only ran the mango bar but was also a travel agent and could book Trey on a two-humped camel back to Michigan. At the moment, however,Trey desired nothing but a large drink of that beautifully translucent and refreshing mangoade. Al informed Trey that the juice was sold only in 8-ounce servings and that the cost for one serving was $3.50. Trey frantically searched all his pockets and found some change and much sand. Trey counted and discovered that he had exactly $3.50.
+
+Trey’s jubilation at the thought of liquid coating his dried and chapped throat was quickly shattered when Al casually announced that there were no 8-ounce glasses available. Al had only a 6-ounce glass and a 10-ounce glass—neither of which had any markings on them. Al, being a man of his word, would not hear of selling any more or any less than an 8-ounce serving of his libation. Trey, in desperation, wondered whether it was possible to use the two glasses to produce exactly 8 ounces of mango juice in the 10-ounce glass. Trey thought and thought. Do you think it is possible to use only the unmarked 6- and 10-ounce glasses to produce exactly 8 ounces in the 10-ounce glass? If so, explain how, and if not, explain why not. This pledge week prank does whet our appetites for a world of numbers.
+
+## Answer ##
