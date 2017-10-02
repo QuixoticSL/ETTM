@@ -30,7 +30,7 @@ This puzzle's statement has many complications and aspects to it. Understanding 
 
 For me personally this puzzle was easy, didn't take me long to find the same answer as in the course.
 
-# Answer #
+### Answer ###
 * Split the rocks into groups of 3.
 * Weigh group 1 and group 2. If one is heavier it contains the Ramanujan, and if
 they are the same mass, the Ramanujan is in the 3rd group.
@@ -39,7 +39,7 @@ they are the same mass, the Ramanujan is in the 3rd group.
 ## Week 1: A Shaky Story ##
 Stacy and Sam Smyth were known for throwing a heck of a good party. At one of their wild gatherings, five couples were present (this included the Smyths, of course). The attendees were cordial, and some even shook hands with other guests. Although we have no idea who shook hands with whom, we do know that no one shook hands with themselves and no one shook hands with his or her own spouse. Given these facts, a guest might not shake anyone’s hand or might shake as many as eight other people’s hands. At midnight, Sam Smyth gathered the crowd and asked the nine other people how many hands each of them had shaken. Much to Sam’s amazement, each person gave a different answer. That is, someone didn’t shake any hands, someone else shook one hand, someone else shook two hands, someone else shook three hands, and so forth, down to the last person, who shook eight hands. Given this outcome, determine the exact number of hands that Stacy Smyth shook.
 
-# Answer #
+### Answer ###
 Stacy shook 1 hand.
 
 ## Week 2: The Puzzle of the Pirates and Admirals ##
@@ -47,7 +47,7 @@ Three Pirates and three Admirals walking together approach a river. The river is
 The boat is only big enough to fit two people at a time, and since it is not a magical boat, it requires at least one person to row it across the river.
 Now the pirates, being as they are pirates, will attack the admirals if they ever outnumber them. If there are more admirals than pirates on a side, or an equal number, everyone will remain friendly.
 
-# Answer #
+### Answer ###
 * 1P and 1A travel to the other bank
 * 1A travels back to the first bank
 * Ferry back the two remaining P to the other bank
@@ -69,4 +69,21 @@ There, sitting in a shaded kiosk beside a small pool of mango nectar, was an old
 
 Trey’s jubilation at the thought of liquid coating his dried and chapped throat was quickly shattered when Al casually announced that there were no 8-ounce glasses available. Al had only a 6-ounce glass and a 10-ounce glass—neither of which had any markings on them. Al, being a man of his word, would not hear of selling any more or any less than an 8-ounce serving of his libation. Trey, in desperation, wondered whether it was possible to use the two glasses to produce exactly 8 ounces of mango juice in the 10-ounce glass. Trey thought and thought. Do you think it is possible to use only the unmarked 6- and 10-ounce glasses to produce exactly 8 ounces in the 10-ounce glass? If so, explain how, and if not, explain why not. This pledge week prank does whet our appetites for a world of numbers.
 
-## Answer ##
+### Answer ###
+Fill each glass halfway up. 5oz + 3oz = 8oz.
+
+## Week 3: Counting before you can count ##
+You are in a nursery as a 2 year old. You don't know how to count and you have candys. You need to divide them so that your friend and you get the same amount.
+
+Two collections whose elements can be paired up into one-to-one correspondence have the same size. That is, if it is possible to take each element of one group, and pair it with exactly one element of the other group without any left-overs, then you know that both sets have the same number of elements in them. 
+
+### Answer ###
+One for you, one for me untill you run out of candys.
+
+## Week 3: Barrels with ping pong balls ##
+You have a barrel containing an infinite number of ping-pong balls and a barrel with an infite number of golf balls. Each ball has a natural number written on it, that is, there is a ping-pong ball and golf ball with the number 1, there is a ping-pong and a golf ball with the number 2, number 3... forever.
+
+If you remove ping-pong ball number 1 from its barrel, do the two barrels of balls still have the same number of balls, or are there more golf balls now?
+
+### Answer ###
+I think the barrels still contain the same number of balls, since infinity both contain infinite number of balls. The numbering is not important.
