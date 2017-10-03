@@ -87,3 +87,10 @@ If you remove ping-pong ball number 1 from its barrel, do the two barrels of bal
 
 ### Answer ###
 I think the barrels still contain the same number of balls, since infinity both contain infinite number of balls. The numbering is not important.
+
+## Week 3: The Infinity Inn ##
+The team is taking up all of the motel rooms, so when the owner shows up people are going to have to move. 
+Specifically, where should each player move and in what room will you put the owner so that every person--owner and each player--will be in a room by themselves? 
+
+### Answer ###
+How can we get all of the Giants and all of the Cardinals into rooms, so that each player has his own room? To answer this question, you need to state the room number in which Cardinal 1 will stay, the room number in which Cardinal 2 will stay, the room number in which Cardinal 3 will stay, and so on for all the Cardinals; and then also state the room number in which Giant 1 will stay, the room number in which Giant 2 will stay, ..., and so on for all the Giants as well.
