@@ -94,3 +94,5 @@ Specifically, where should each player move and in what room will you put the ow
 
 ### Answer ###
 How can we get all of the Giants and all of the Cardinals into rooms, so that each player has his own room? To answer this question, you need to state the room number in which Cardinal 1 will stay, the room number in which Cardinal 2 will stay, the room number in which Cardinal 3 will stay, and so on for all the Cardinals; and then also state the room number in which Giant 1 will stay, the room number in which Giant 2 will stay, ..., and so on for all the Giants as well.
+By focusing on essentials, you noticed that to compare the sizes of two sets you can use the idea of one-to-one correspondence.
+You learned that two sets of objects have the same cardinality if we can create a one-to-one correspondence between them. Through learning from mistakes, you discovered that there is a one-to-one correspondence between the natural numbers and the integers; that is, the integers and the natural numbers have the same cardinality.
