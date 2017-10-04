@@ -96,3 +96,26 @@ Specifically, where should each player move and in what room will you put the ow
 How can we get all of the Giants and all of the Cardinals into rooms, so that each player has his own room? To answer this question, you need to state the room number in which Cardinal 1 will stay, the room number in which Cardinal 2 will stay, the room number in which Cardinal 3 will stay, and so on for all the Cardinals; and then also state the room number in which Giant 1 will stay, the room number in which Giant 2 will stay, ..., and so on for all the Giants as well.
 By focusing on essentials, you noticed that to compare the sizes of two sets you can use the idea of one-to-one correspondence.
 You learned that two sets of objects have the same cardinality if we can create a one-to-one correspondence between them. Through learning from mistakes, you discovered that there is a one-to-one correspondence between the natural numbers and the integers; that is, the integers and the natural numbers have the same cardinality.
+
+## Week 4: Dodgeball with infinity ##
+Player ones board: 6 by 6 places
+Player two board: 6 by 2 places
+
+Rules:
+- There are two players.
+
+- Player 1 fills in the first row with an X or an O in each of the six boxes in row 1.
+
+- Player 2 then puts an X or an O in the first column of his or her row (remember, Player 2 only has one row)
+
+- Then the process repeats. Player 1 fills in all of row 2 by putting an X or an O in each of the six boxes of row 2; and then Player 2 puts a single X or O in the second column in Player 2's row.
+
+- The process repeats until Player 1 has filled in all six rows and Player 2 has filled in his or her single row. 
+
+- Both players can see everything at all times.
+
+- The goal of the game: Player 2 is trying to create a row that is different from every one of Player 1's six rows; so Player 2 wants to 'dodge' all of Player 1's rows (hence the name Dodgeball). Player 1, on the other hand, is trying to make one of his six rows exactly match Player 2's final row.
+
+- Player 1 wins if, after all the squares have been filled, one of Player 1's six horizontal rows exactly matches Player 2's row; and Player 2 wins if Player 2's row differs from every one of Player 1's six horizontal rows.
+
+- Note: We are only interested in horizontal rows--vertical rows or diagonal rows don't matter.
