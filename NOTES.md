@@ -119,3 +119,17 @@ Rules:
 - Player 1 wins if, after all the squares have been filled, one of Player 1's six horizontal rows exactly matches Player 2's row; and Player 2 wins if Player 2's row differs from every one of Player 1's six horizontal rows.
 
 - Note: We are only interested in horizontal rows--vertical rows or diagonal rows don't matter.
+
+### Player Two can always win ###
+The strategy that Julie described that will always guarantee victory for Player Two is to just do the opposite of what Player One does at each stage, that is, when the game starts and Player One puts down a sequence of X's and O's in his first row, Player Two ignores everything except the mark that Player One put in the first position of the first row. Then Player Two puts the opposite mark in her first position of her row. Having done that, no matter what happens later, Player Two knows that her row will not be the same as Player One's first row, because Player Two row will different from Player One's first row in the first position. (Player Two's row may also different elsewhere, but at a minimum, Player Two's row will differ from Player One's first row in the first position. 
+
+Now Player One writes down his second row. Player Two ignores everything except what mark Player One put in the second position of his second row. Player Two puts the opposite mark in the second position of her row. Having done that, Player Two knows for certain that Player Two's row will different from Player One's second row in the second position.
+
+This method goes on. For example, to decide what mark Player Two will put in the fifth position of her row, she just looks at what mark Player One put in the fifth position of his fifth row, and Player Two puts the opposition mark in the fifth position of her row. In that manner, Player Two guarantees that her row will definitely not be the same as Player One's fifth row since Player Two's row will definitely differ from Player One's fifth row in the fifth position.
+
+Since every one of Player One's rows has a position in which it is guaranteed to be different from Player Two's row, then Player Two's row is different from each one of Player One's rows, and therefore, Player Two is absolutely guaranteed to win.
+
+### Infinity ###
+Scott's "Buy Every Ticket" strategy failed because he was unable to make a one-to-one correspondence between the set of all  possible sequences of X's and O's and the row numbers (the natural numbers). When it is impossible to make a one-to-one correspondence between two sets, we know that that means that the two sets do not have the same cardinality. Since we saw conclusively that the set of natural numbers (the row numbers) cannot be put into 1-1 correspondence with the set of all possible sequences of X's and O's, we are forced to conclude that infinity comes in different sizes!! What an idea. 
+
+It is important to try to stay open-minded about things. In this case, we had to be open-minded about the possibility of infinity coming in different sizes. This idea seems completely impossible, yet we have just proved that there are different sizes of infinity by playing the game of Dodgeball.  Similarly, by staying open-minded in our daily lives, we can all experience unexpected insights that we had never seen before. 
