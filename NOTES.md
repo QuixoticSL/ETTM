@@ -137,3 +137,8 @@ It is important to try to stay open-minded about things. In this case, we had to
 Could there be a one-to-one correspondence between the natural numbers and all the decimal numbers between 0 and 1?
 
 Re-using the same method that was used with Dodgeball--in this case to show that the decimal numbers between 0 and 1 do not have a one-to-one correspondence with the natural numbers. She is able to use this old idea in a new setting because the underlying concept in both instances is the same--we want to show that two sets have a different cardinality. Old ideas are the richest source for creating new ideas. Rather than creating a whole other proof, Julie used her previous knowledge to apply to a new situation.
+
+## Week 5: Euler Bridges ##
+[The problem explained as well as the solution](https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg)
+
+[A more simple version of the explaination](https://www.mathsisfun.com/activity/seven-bridges-konigsberg.html)
